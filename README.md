@@ -62,10 +62,6 @@ This project focuses on analyzing manufacturing defects and identifying root cau
 - Seasonal trends impact production quality
 - Data-driven monitoring improves decision-making
 
----
-
-## 📸 Dashboard Preview
-(Add screenshots here)
 
 ---
 
